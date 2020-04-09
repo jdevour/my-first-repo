@@ -1,29 +1,27 @@
-# This is a large heading
+# Jean De Vour
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Seattle, Washington, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *The Wind-up Bird Chronicle by Haruki Murakami
+- *My name is Red by Orhan Pamuk
+- *The River Why by David James Duncan
 
-```
-This is
-a block
-of code
-```
+### Music
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I'm currently listening to:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Widow's Weeds by Silversun Pickups
+2. New Me, Same Us by Little Dragon
+3. 7 by Sault
+
+### Contact
+
+The best way to reach me is [on Twitter] (https://twitter.com/jcdevour).
+
 
